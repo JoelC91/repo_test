@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+#include <string>
+#include <vector>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+using namespace std;
+
+int main() {
+
+	cout << "Hello world!" << endl;
+
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
